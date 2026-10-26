@@ -1,7 +1,5 @@
 # 🎮 Battle Arena
 
-# ALPHA GROUP By Avinash
-
 A browser-based shooting game developed as a personal project to explore game development, real-time communication, and backend application development.
 
 ## 🚀 Play the Game
@@ -39,18 +37,27 @@ Battle Arena supports Progressive Web App (PWA) installation on compatible Andro
 
 ## 🎥 Gameplay Preview
 
-Gameplay video and screenshots will be added here.
+<img width="1920" height="1080" alt="00_cover_poster" src="https://github.com/user-attachments/assets/3986467b-edcd-4092-8952-b3f7efc50214" />
 
-## 🏗️ Architecture
 
-The browser communicates with the Spring Boot backend, which handles server-side game logic and real-time communication.
 
-## 📌 About This Project
 
-Battle Arena is a personal learning project built to explore browser-based action game development and real-time application communication.
+<img width="1024" height="500" alt="00_feature_graphic_1024x500" src="https://github.com/user-attachments/assets/d65e2917-082f-42d1-a72b-ab8b3ee01d28" />
 
-The complete backend source code is maintained in a private repository.
 
----
+
+<img width="1920" height="1080" alt="01_jump_in" src="https://github.com/user-attachments/assets/83ddfe11-0ff2-44c6-b74b-2dab2521845e" />
+
+
+
+<img width="1920" height="1080" alt="03_find_players" src="https://github.com/user-attachments/assets/ad04d9d1-c6aa-4cf1-9d2d-f2ca3425e599" />
+
+
+
+<img width="1920" height="1080" alt="04_arena" src="https://github.com/user-attachments/assets/a2b18abe-53ae-4687-850e-549406c3dad9" />
+
+
+
+<img width="1920" height="1080" alt="06_victory" src="https://github.com/user-attachments/assets/11528738-5773-445b-b601-04fe74df0628" />
 
 *Built for learning, experimentation, and fun.*
